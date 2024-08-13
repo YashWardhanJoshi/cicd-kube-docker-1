@@ -9,7 +9,7 @@ pipeline {
 
     environment {
         registry = "yash56/vproappdock"
-        registryCredential = 'dockerhub'
+        registryCredential = 'Dockerhub'
     }
 
     stages{
